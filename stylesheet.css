@@ -44,7 +44,7 @@ p{
 	left: 0; 
 	top: 0;
 	bottom: 0;
-	border: 0px solid blue;
+	border: 20px solid blue;
 }
 h1{
 	background-color: white;
@@ -85,6 +85,11 @@ a{
 .name{
 	font-family: Merriweather, Times, serif;
 	
+}
+
+.artwork{
+	font-family: Merriweather, Times, serif;
+	font-style: italic;
 }
 
 a:hover{
