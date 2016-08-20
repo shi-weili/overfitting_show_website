@@ -1,0 +1,95 @@
+#sketch{
+	/*background-color: yellow;*/
+	position: fixed;
+	right: 0;
+	left: 0;
+	top: 0;
+	bottom: 0;
+	z-index: -2;
+}
+
+.bg{
+	width: 100%;
+}
+
+.title{
+	padding: 0;
+	margin: auto;
+}
+.info{
+	text-align: center;
+	padding: 0;
+	margin: auto;
+	font-family: Merriweather, Times, serif;
+}
+
+
+.header{
+	text-align: center;
+}
+
+p > span{
+	font-size: 0.8em;
+}
+
+p{
+	padding: 0px;
+	background-color: white;
+	display: inline-block;
+}
+
+#main{
+	position: fixed;
+	right: 0;
+	left: 0; 
+	top: 0;
+	bottom: 0;
+	border: 20px solid blue;
+}
+h1{
+	background-color: white;
+	color: black;
+	font-size: 3em;
+	font-family: Montserrat, Arial, sans-serif;
+	letter-spacing: 20px;
+	margin-top: 200px;
+	text-align: center;
+	display:inline-block; 
+}
+
+table{
+	border: 0px solid;
+	margin: auto;
+}
+
+td{
+	padding: 10px;
+}
+a{
+	color: black;
+	text-decoration: none;
+	background-color: white;
+
+}
+.name-title{
+	font-family: Merriweather, Times, serif;
+	font-size: 0.8em;
+	text-align: right;
+
+}
+
+.title{
+	background-color: white;
+}
+
+.name{
+	font-family: Merriweather, Times, serif;
+	
+}
+
+a:hover{
+	text-decoration: none;
+	background-color: black;
+	color: white;
+}
+
