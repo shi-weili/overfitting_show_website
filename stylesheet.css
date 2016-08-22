@@ -44,7 +44,7 @@ p{
 	left: 0; 
 	top: 0;
 	bottom: 0;
-	border: 20px solid #001DEC;
+	border: 19px solid white;
 }
 h1{
 	background-color: white;
@@ -106,7 +106,7 @@ a{
 
 a:hover{
 	text-decoration: none;
-	background-color: black;
+	background-color: #001DEC;
 	color: white;
 }
 
