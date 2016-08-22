@@ -71,6 +71,9 @@ table{
 td{
 	padding: 10px;
 }
+td span{
+    background-color: white;
+}
 a{
 	color: black;
 	text-decoration: none;
