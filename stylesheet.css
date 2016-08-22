@@ -106,7 +106,7 @@ a{
 
 a:hover{
 	text-decoration: none;
-	background-color: #001DEC;
-	color: white;
+/*	background-color: #001DEC;*/
+	color: #001DEC;
 }
 
