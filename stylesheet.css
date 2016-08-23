@@ -41,12 +41,11 @@ p{
 }
 
 #main{
-	position: fixed;
+	position: absolute;
 	right: 0;
 	left: 0; 
 	top: 0;
 	bottom: 0;
-	border: 19px solid white;
 }
 h1{
 	background-color: white;
